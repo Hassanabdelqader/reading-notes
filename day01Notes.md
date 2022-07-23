@@ -63,8 +63,7 @@ Data with props are being passed in a uni-directional flow (one way from parent 
 * [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
 
 
-# 
-<span style="color:Green; font-size:40px; font-weight : bold;">Things I want to know more about </span>
+# Things I want to know more about
 
 
 
