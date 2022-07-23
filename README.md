@@ -28,7 +28,7 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 ---
 ## Code 301 - Intermediate Software Development (Cuurent Level in Prgress )
 ### topics for this level
-| Web Site  | Discription |
+| Web Site  | Description |
 | ------------- | ------------- |
 | Day01  | [React-intro](https://github.com/Hassanabdelqader/reading-notes/blob/main/day01Notes.md)  |
 
@@ -37,7 +37,7 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 
 
 ###Some of Project we worked on this Level
-| Web Site  | Discription |
+| Web Site  | Description |
 | ------------- | ------------- |
 |  [Chocolate-Pizza](https://hassanabdelqader.github.io/Chocolate-Pizza-CSS/)  | Desinged using HTML, CSS without any frameWork and without Flex and Grid  |
 
