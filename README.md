@@ -1,10 +1,14 @@
 # Reading Notes
 ### About Me
 
-**Hassan Mousa**
+**Hassan Mousa Hasan abdalqader**
+
+<picture>
+<img alt="hassan" src="persphoto.jpg" width="200">
+</picture>
 
 A web development software engineer , a student at LTUC-ASAC web development program in JavaScript in the 301 level.
-Passionate into creating web applications.
+Passionate into creating web applications, familiwer with Android programming and firebase dataBase and flutter teacnology 
 Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](https://www.linkedin.com/in/hasan-mousa-3baaa4177/) and my [email](mailto:terawihassan@gmail.com)
 
 ### Table of Contents
