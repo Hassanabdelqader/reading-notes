@@ -30,7 +30,8 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 ### Topics for this level
 | Web Site  | Description |
 | ------------- | ------------- |
-| Day01  | [React-intro](https://github.com/Hassanabdelqader/reading-notes/blob/main/day01Notes.md)  |
+| Day00  | [React-intro](https://github.com/Hassanabdelqader/reading-notes/blob/main/day01Notes.md)  |
+| Day01  | [Props and State](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day01.md)  |
 
 
 
