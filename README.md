@@ -32,7 +32,7 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | ------------- | ------------- |
 | Day00  | [React-intro](https://github.com/Hassanabdelqader/reading-notes/blob/main/day01Notes.md)  |
 | Day01  | [Props and State](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day01.md)  |
-
+| Day02  | [Passing function between Component](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day02.md)  |
 
 
 
@@ -41,6 +41,8 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Web Site  | Description |
 | ------------- | ------------- |
 |  [Chocolate-Pizza](https://hassanabdelqader.github.io/Chocolate-Pizza-CSS/)  | Desinged using HTML, CSS without any frameWork and without Flex and Grid  |
+|  [Horned Animal App](https://github.com/Hassanabdelqader/hornedanimalapp2/pull/1)  | using React |
+|  [Horned Animal App V2](https://fancy-muffin-b01b09.netlify.app/)  | using React |
 
 
 ## Code 401 - Advanced Software Development
