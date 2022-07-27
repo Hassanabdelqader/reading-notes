@@ -12,8 +12,9 @@ Passionate into creating web applications, familiwer with Android programming an
 Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](https://www.linkedin.com/in/hasan-mousa-3baaa4177/) and my [email](mailto:terawihassan@gmail.com)
 
 ### Table of Contents
+
+# Code 201 - Foundations of Software Development
 ---
-## Code 102 - Intro to Software Development
 ###Some of what we worked on this Level
 | Web Site  | Discription |
 | ------------- | ------------- |
@@ -22,11 +23,8 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 |  [testing ](https://hassanabdelqader.github.io/todo-project/)  | Desinged using HTML, CSS, JS  |
 |  [Redesign Shahid using wireframe  ](https://hassanabdelqader.github.io/todo-project/)  | Desinged using wireframe concept  |
 
-
-
-## Code 201 - Foundations of Software Development
 ---
-## Code 301 - Intermediate Software Development (Cuurent Level in Prgress )
+# Code 301 - Intermediate Software Development (Cuurent Level in Prgress )
 ### Topics for this level
 | Web Site  | Description |
 | ------------- | ------------- |
@@ -47,4 +45,4 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 |  [Horned Animal App](https://fancy-muffin-b01b09.netlify.app/)  | using React | 
 
 
-## Code 401 - Advanced Software Development
+# Code 401 - Advanced Software Development
