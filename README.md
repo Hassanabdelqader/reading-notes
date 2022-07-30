@@ -33,6 +33,9 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day03  | [Passing function between Component](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day02.md)  |
 | Day04  | [Form](https://github.com/Hassanabdelqader/reading-notes/blob/main/day04.md)  |
 | Day05  | [Thinking in React and Higher order Function](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day05.md)  |
+| Day06  | [Node and Npm ](https://github.com/Hassanabdelqader/reading-notes/blob/main/day06.md)  |
+
+
 
 
 
