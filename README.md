@@ -35,6 +35,9 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day05  | [Thinking in React and Higher order Function](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day05.md)  |
 | Day06  | [Node and Npm ](https://github.com/Hassanabdelqader/reading-notes/blob/main/day06.md)  |
 | Day07  | [Apis](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day07.md)  |
+| Day08  | [REST API](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day08.md)  |
+
+
 
 
 
