@@ -1,6 +1,3 @@
-
-# In memory storage
-
 ## What is a ‘call’?
   Ans : invok the function
 ## How many ‘calls’ can happen at once?
