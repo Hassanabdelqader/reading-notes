@@ -37,6 +37,9 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day07  | [Apis](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day07.md)  |
 | Day08  | [REST API](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day08.md)  |
 | Day09  | [Functional](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day09.md)  |
+| Day10  | [Call Stack](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day10.md)  |
+
+
 
 
 
