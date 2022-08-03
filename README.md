@@ -36,6 +36,8 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day06  | [Node and Npm ](https://github.com/Hassanabdelqader/reading-notes/blob/main/day06.md)  |
 | Day07  | [Apis](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day07.md)  |
 | Day08  | [REST API](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day08.md)  |
+| Day09  | [Functional](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day09.md)  |
+
 
 
 
