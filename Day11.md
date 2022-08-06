@@ -98,10 +98,10 @@ This means that you will need a manual query language, making things slower and 
 
 
 # Usful Resources 
-[sql-vs-nosql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
-[sql-vs-nosql (Video)](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-[mongo API](https://mongoosejs.com/docs/api.html#Model)
-[React Router](https://reactrouter.com/web/api/BrowserRouter)
+  - [sql-vs-nosql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+  - [sql-vs-nosql (Video)](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+  - [mongo API](https://mongoosejs.com/docs/api.html#Model)
+  - [React Router](https://reactrouter.com/web/api/BrowserRouter)
 
 
 
