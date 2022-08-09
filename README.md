@@ -40,6 +40,10 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day10  | [Call Stack](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day10.md)  |
 | Day11  | [Mongo](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day11.md)  |
 | Day12  | [CRUD](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day12.md)  |
+| Day13  | [More about the CRUD](https://github.com/Hassanabdelqader/reading-notes/blob/main/Day13.md)  |
+
+
+
 
 
 
