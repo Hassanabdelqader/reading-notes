@@ -61,3 +61,4 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Web Site  | Description |
 | ------------- | ------------- |
 | Day01  | [Intoruction to Test and TDD ](https://github.com/Hassanabdelqader/reading-notes/blob/main/401-class01.md)|
+| Week02  | [SQL](https://github.com/Hassanabdelqader/reading-notes/blob/main/day14sql.md)|
