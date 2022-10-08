@@ -1,0 +1,19 @@
+
+# How can we ensure that an effect hook runs only once?
+We can use an empty array as the second argument to the useEffect hook. This will ensure that the effect hook only runs once.
+
+# Can useState() update more than one state variable at the same time?
+No useState() can update one state variable at a time.
+
+
+# Is useState() synchronous?
+No useState() is asynchronous.
+
+# Document the following Vocabulary Terms
+1. State Hook - A hook that allows you to use state in a functional component.
+2. Component Lifecycle - The lifecycle of a component is the order in which the methods of a component are called.
+
+# Preparation Materials
+1. [whatIsReducer](https://www.robinwieruch.de/javascript-reducer/)
+2. [useReducer hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+3. [Ultimate Guide to useReducer](https://blog.logrocket.com/react-usereducer-hook-ultimate-guide/)
