@@ -63,4 +63,6 @@ Here you can find my [GitHub](https://github.com/Hassanabdelqader) , [LinkedIn](
 | Day01  | [Intoruction to Test and TDD ](https://github.com/Hassanabdelqader/reading-notes/blob/main/401-class01.md)|
 | Week02  | [SQL](https://github.com/Hassanabdelqader/reading-notes/blob/main/day14sql.md)|
 | Week02  | [Q_and_Stack](https://github.com/Hassanabdelqader/reading-notes/blob/main/Q_and_Stack.md)|
+| Week03  | [Reducer](https://github.com/Hassanabdelqader/reading-notes/blob/main/Reducer.md)|
+
 
