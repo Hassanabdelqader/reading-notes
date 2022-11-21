@@ -24,8 +24,8 @@ createSlice is a higher order function that accepts an initial state, an object 
 In Redux-Toolkit, the createSlice method helps us create a slice of the redux-store. This function aims to reduce the boilerplate required to add data to redux in the canonical way. Internally, it uses createAction and createReducer.
 
 
-*[Source01](https://medium.com/geekculture/understanding-createslice-in-redux-toolkit-reactjs-eca8d20f45d7)*
+*[link 1](https://medium.com/geekculture/understanding-createslice-in-redux-toolkit-reactjs-eca8d20f45d7)*
 
-*[Source02](https://redux.js.org/redux-toolkit/overview)*
+*[link 02](https://redux.js.org/redux-toolkit/overview)*
 
-*[Source03](https://redux-toolkit.js.org/api/createslice)*
+*[link 03](https://redux-toolkit.js.org/api/createslice)*
